@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.exe
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.deps.json
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.runtimeconfig.json
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.dll
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\bin\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.pdb
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.dll
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.pdb
+D:\bridgelabz\.NET problems\MoodAnalyserUC1refactor\MoodAnalyserUC1refactor\obj\Debug\netcoreapp3.1\MoodAnalyserUC1refactor.genruntimeconfig.cache
