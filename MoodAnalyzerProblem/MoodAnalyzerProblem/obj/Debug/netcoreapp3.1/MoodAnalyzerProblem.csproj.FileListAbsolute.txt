@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.exe
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.deps.json
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.runtimeconfig.json
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.dll
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\netcoreapp3.1\MoodAnalyzerProblem.pdb
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.dll
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.pdb
+D:\bridgelabz\.NET problems\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\netcoreapp3.1\MoodAnalyzerProblem.genruntimeconfig.cache
